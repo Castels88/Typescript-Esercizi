@@ -29,6 +29,6 @@ function throwCountryError(message: string): never {
 
 throwCountryError("Narnia");
 
-// ----
+
 
 export {};
